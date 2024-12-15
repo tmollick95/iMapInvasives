@@ -9,10 +9,10 @@ Invasive species pose significant ecological and economic threats, requiring eff
 
 ### Keywords:
 
-Invasives Species 
-Machine Learning (ML)
-Computer Vision
-iMapInvasives
+Invasives Species, 
+Machine Learning (ML),
+Computer Vision,
+iMapInvasives,
 iNaturalist
  
  
