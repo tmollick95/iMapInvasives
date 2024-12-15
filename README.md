@@ -197,65 +197,121 @@ In conclusion, the integration of ML tools into invasive species management repr
 ### References
 
 Allen, J.M., Bradley, B.A., 2016. Out of the weeds? Reduced plant invasion risk with climate change in the continental United States. Biological Conservation 203, 306–312.
+
 Ashqar, B.A.M., Abu-Naser, S.S., 2019. Identifying Images of Invasive Hydrangea Using Pre-Trained Deep Convolutional Neural Networks. IJCA 12, 15–28. https://doi.org/10.33832/ijca.2019.12.4.02
+
 Augustin, N.H., Mugglestone, M.A., Buckland, S.T., 1996. An Autologistic Model for the Spatial Distribution of Wildlife. Journal of Applied Ecology 33, 339–347. https://doi.org/10.2307/2404755
+
 Barve, N., Barve, V., Jiménez-Valverde, A., Lira-Noriega, A., Maher, S.P., Peterson, A.T., Soberón, J., Villalobos, F., 2011. The crucial role of the accessible area in ecological niche modeling and species distribution modeling. Ecological Modelling 222, 1810–1819. https://doi.org/10.1016/j.ecolmodel.2011.02.011
+
 Borges Oliveira, D.A., Ribeiro Pereira, L.G., Bresolin, T., Pontes Ferreira, R.E., Reboucas Dorea, J.R., 2021. A review of deep learning algorithms for computer vision systems in livestock. Livestock Science 253, 104700. https://doi.org/10.1016/j.livsci.2021.104700
+
 Bradski, G., 2000. The openCV library. Dr. Dobb’s Journal: Software Tools for the Professional Programmer 25, 120–123.
+
 Chandra, S., 2020. Learning to segment images without manually segmented training data [WWW Document]. Amazon Science. URL https://www.amazon.science/blog/learning-to-segment-images-without-manually-segmented-training-data (accessed 9.10.23).
+
 Colautti, R.I., MacIsaac, H.J., 2004. A neutral terminology to define ‘invasive’ species. Diversity and Distributions 10, 135–141. https://doi.org/10.1111/j.1366-9516.2004.00061.x
+
 Dehnen-Schmutz, K., 2011. Determining non-invasiveness in ornamental plants to build green lists. Journal of Applied Ecology 48, 1374–1380. https://doi.org/10.1111/j.1365-2664.2011.02061.x
+
 Devin, S., Beisel, J.-N., 2007. Biological and ecological characteristics of invasive species: a gammarid study. Biol Invasions 9, 13–24. https://doi.org/10.1007/s10530-006-9001-0
+
 Dickinson, J.L., Shirk, J., Bonter, D., Bonney, R., Crain, R.L., Martin, J., Phillips, T., Purcell, K., 2012. The current state of citizen science as a tool for ecological research and public engagement. Frontiers in Ecology and the Environment 10, 291–297. https://doi.org/10.1890/110236
+
 Drake, S.J., Weltzin, J.F., Parr, P.D., 2003. Assessment of Non-Native Invasive Plant Species on the United States Department of Energy Oak Ridge National Environmental Research Park. Castanea 68, 15–30.
+
 Elias, N., 2021. A Novel Method for Automated Identification and Prediction of Invasive Species Using Deep Learning, in: 2021 IEEE 12th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON). Presented at the 2021 IEEE 12th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON), IEEE, Vancouver, BC, Canada, pp. 1–5. https://doi.org/10.1109/IEMCON53756.2021.9623087
+
 Favorskaya, M., Pakhirka, A., 2019. Animal species recognition in the wildlife based on muzzle and shape features using joint CNN. Procedia Computer Science 159, 933–942. https://doi.org/10.1016/j.procs.2019.09.260
+
 Finley, D., Dovciak, M., Dean, J., 2023. A data driven method for prioritizing invasive species to aid policy and management. Biol Invasions. https://doi.org/10.1007/s10530-023-03041-3
 Fu H., Chi Z., Chang J., Fu C.X., 2004. Extraction of leaf vein features based on artificial neural network - studies on the living plant identification Ⅰ.
 Goodfellow, I., Bengio, Y., Courville, A., Bengio, Y., 2016. Deep learning, volume 1. MIT press Cambridge.
+
 Gu, J., Wang, Z., Kuen, J., Ma, L., Shahroudy, A., Shuai, B., Liu, T., Wang, X., Wang, G., Cai, J., Chen, T., 2018. Recent advances in convolutional neural networks. Pattern Recognition 77, 354–377. https://doi.org/10.1016/j.patcog.2017.10.013
+
 Guisan, A., Thuiller, W., 2005. Predicting species distribution: offering more than simple habitat models. Ecology Letters 8, 993–1009. https://doi.org/10.1111/j.1461-0248.2005.00792.x
+
 He, K., Zhang, X., Ren, S., Sun, J., 2016. Deep residual learning for image recognition, in: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. pp. 770–778.
+
 He, P., Huang, L., 2008. Feature extraction and recognition of plant leaf. Journal of Agricultural Mechanization Research 6, 52.
+
 Huang, G., Liu, Z., Van Der Maaten, L., Weinberger, K.Q., 2017. Densely connected convolutional networks, in: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. pp. 4700–4708.
+
 Jensen, T., Seerup Hass, F., Seam Akbar, M., Holm Petersen, P., Jokar Arsanjani, J., 2020. Employing Machine Learning for Detection of Invasive Species using Sentinel-2 and AVIRIS Data: The Case of Kudzu in the United States. Sustainability 12, 3544. https://doi.org/10.3390/su12093544
+
 Jewitt, A., Antolos, E., Lutz, C., Dean, J., 2021. Targeted Species Projects for Volunteers to Increase Early Detection Capacity: The Water Chestnut Mapping Challenge. Natural Areas Journal 41. https://doi.org/10.3375/043.041.0306
+
 Johnson, B.A., Mader, A.D., Dasgupta, R., Kumar, P., 2020. Citizen science and invasive alien species: An analysis of citizen science initiatives using information and communications technology (ICT) to collect invasive alien species observations. Global Ecology and Conservation 21, e00812. https://doi.org/10.1016/j.gecco.2019.e00812
+
 Krizhevsky, A., Sutskever, I., Hinton, G.E., 2012. Imagenet classification with deep convolutional neural networks. Advances in neural information processing systems 25.
+
 Kühl, H.S., Burghardt, T., 2013. Animal biometrics: quantifying and detecting phenotypic appearance. Trends Ecol Evol 28, 432–441. https://doi.org/10.1016/j.tree.2013.02.013
+
 Kulhanek, S.A., Leung, B., Ricciardi, A., 2011. Using ecological niche models to predict the abundance and impact of invasive species: application to the common carp. Ecological Applications 21, 203–213. https://doi.org/10.1890/09-1639.1
+
 Kumar, S., Tiwari, S., Singh, S.K., 2016. Face Recognition of Cattle: Can it be Done? Proc. Natl. Acad. Sci., India, Sect. A Phys. Sci. 86, 137–148. https://doi.org/10.1007/s40010-016-0264-2
+
 LeCun, Y., 2015. LeNet-5, convolutional neural networks. URL: http://yann. lecun. com/exdb/lenet 20, 14.
+
 Li, Y., Zhu, Q., Cao, Y., Wang, C., 2005. A Leaf Vein Extraction Method Based On Snakes Technique, in: 2005 International Conference on Neural Networks and Brain. Presented at the 2005 International Conference on Neural Networks and Brain, pp. 885–888. https://doi.org/10.1109/ICNNB.2005.1614763
+
 Lin, M., Chen, Q., Yan, S., 2013. Network in network. arXiv preprint arXiv:1312.4400.
+
 Lodge, D.M., Williams, S., MacIsaac, H.J., Hayes, K.R., Leung, B., Reichard, S., Mack, R.N., Moyle, P.B., Smith, M., Andow, D.A., 2006. Biological invasions: recommendations for US policy and management. Ecological applications 16, 2035–2054.
+
 Martinez, B., Reaser, J.K., Dehgan, A., Zamft, B., Baisch, D., McCormick, C., Giordano, A.J., Aicher, R., Selbe, S., 2020. Technology innovation: advancing capacities for the early detection of and rapid response to invasive species. Biol Invasions 22, 75–100. https://doi.org/10.1007/s10530-019-02146-y
+
 Mohammadi, M., Al-Fuqaha, A., Sorour, S., Guizani, M., 2018. Deep learning for IoT big data and streaming analytics: A survey. IEEE Communications Surveys & Tutorials 20, 2923–2960.
 Nininahazwe, F., Théau, J., Marc Antoine, G., Varin, M., 2023. Mapping invasive alien plant species with very high spatial resolution and multi-date satellite imagery using object-based and machine learning techniques: A comparative study. GIScience & Remote Sensing 60, 2190203. https://doi.org/10.1080/15481603.2023.2190203
 Norouzzadeh, M.S., Nguyen, A., Kosmala, M., Swanson, A., Palmer, M.S., Packer, C., Clune, J., 2018. Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning. Proceedings of the National Academy of Sciences 115, E5716–E5725. https://doi.org/10.1073/pnas.1719367115
+
 Noviyanto, A., Arymurthy, A.M., 2013. Beef cattle identification based on muzzle pattern using a matching refinement technique in the SIFT method. Computers and electronics in agriculture 99, 77–84.
+
 Noviyanto, A., Arymurthy, A.M., 2012. Automatic cattle identification based on muzzle photo using speed-up robust features approach, in: Proceedings of the 3rd European Conference of Computer Science, ECCS. p. 114.
+
 Otter, J., Mayer, S., Tomaszewski, C.A., 2021. Swipe Right: a Comparison of Accuracy of Plant Identification Apps for Toxic Plants. J. Med. Toxicol. 17, 42–47. https://doi.org/10.1007/s13181-020-00803-6
+
 Pimentel, D., Lach, L., Zuniga, R., Morrison, D., 2000. Environmental and Economic Costs of Nonindigenous Species in the United States. bisi 50, 53–65. https://doi.org/10.1641/0006-3568(2000)050[0053:EAECON]2.3.CO;2
+
 Ravoor, P.C., Sudarshan, T.S.B., 2020. Deep Learning Methods for Multi-Species Animal Re-identification and Tracking – a Survey. Computer Science Review 38, 100289. https://doi.org/10.1016/j.cosrev.2020.100289
+
 Russakovsky, O., Deng, J., Su, H., Krause, J., Satheesh, S., Ma, S., Huang, Z., Karpathy, A., Khosla, A., Bernstein, M., Berg, A.C., Fei-Fei, L., 2015. ImageNet Large Scale Visual Recognition Challenge. Int J Comput Vis 115, 211–252. https://doi.org/10.1007/s11263-015-0816-y
+
 Rzanny, M., Bebber, A., Wittich, H.C., Fritz, A., Boho, D., Mäder, P., Wäldchen, J., 2024. More than rapid identification—Free plant identification apps can also be highly accurate. People and Nature 6, 2178–2181. https://doi.org/10.1002/pan3.10676
+
 Sawaya, K.E., Olmanson, L.G., Heinert, N.J., Brezonik, P.L., Bauer, M.E., 2003. Extending satellite remote sensing to local scales: land and water resource monitoring using high-resolution imagery. Remote Sensing of Environment, IKONOS Fine Spatial Resolution Land Observation 88, 144–156. https://doi.org/10.1016/j.rse.2003.04.006
+
 Simonyan, K., Zisserman, A., 2014. Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556.
+
 Simpson, A., Eyler, M.C., Guala, G., Cannister, M.J., Kozlowsky, N., Libby, R., Sellers, E.A., 2018. A comprehensive list of non-native species established in three major regions of the United States: Version 3.0. https://doi.org/10.5066/P9E5K160
+
 Söderkvist, O., 2001. Computer Vision Classification of Leaves from Swedish Trees.
+
 Sokolova, M., Lapalme, G., 2009. A systematic analysis of performance measures for classification tasks. Information processing & management 45, 427–437.
+
 Srivastava, V., Lafond, V., Griess, V.C., 2019. Species distribution models (SDM): applications, benefits and challenges in invasive species management. CABI Reviews 2019, 1–13. https://doi.org/10.1079/PAVSNNR201914020
+
 Sullivan, B.L., Wood, C.L., Iliff, M.J., Bonney, R.E., Fink, D., Kelling, S., 2009. eBird: A citizen-based bird observation network in the biological sciences. Biological Conservation 142, 2282–2292. https://doi.org/10.1016/j.biocon.2009.05.006
+
 Sun, Y., Liu, Y., Wang, G., Zhang, H., 2017. Deep Learning for Plant Identification in Natural Environment. Computational Intelligence and Neuroscience 2017, 1–6. https://doi.org/10.1155/2017/7361042
+
 Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., Rabinovich, A., 2015. Going deeper with convolutions, in: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. pp. 1–9.
+
 Terry, J.C.D., Roy, H.E., August, T.A., 2020. Thinking like a naturalist: Enhancing computer vision of citizen science images by harnessing contextual data. Methods in Ecology and Evolution 11, 303–315.
+
 Van Horn, G., Cole, E., Beery, S., Wilber, K., Belongie, S., Mac Aodha, O., 2021a. Benchmarking representation learning for natural world image collections, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. pp. 12884–12893.
+
 Van Horn, G., Cole, E., Beery, S., Wilber, K., Belongie, S., Mac Aodha, O., 2021b. Benchmarking representation learning for natural world image collections, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. pp. 12884–12893.
+
 Van Horn, G., Mac Aodha, O., Song, Y., Cui, Y., Sun, C., Shepard, A., Adam, H., Perona, P., Belongie, S., 2018. The INaturalist Species Classification and Detection Dataset. Presented at the Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 8769–8778.
+
 Willi, M., Pitman, R.T., Cardoso, A.W., Locke, C., Swanson, A., Boyer, A., Veldthuis, M., Fortson, L., 2019. Identifying animal species in camera trap images using deep learning and citizen science. Methods Ecol Evol 10, 80–91. https://doi.org/10.1111/2041-210X.13099
+
 Williams, J.N., Seo, C., Thorne, J., Nelson, J.K., Erwin, S., O’Brien, J.M., Schwartz, M.W., 2009. Using species distribution models to predict new occurrences for rare plants. Diversity and Distributions 15, 565–576. https://doi.org/10.1111/j.1472-4642.2009.00567.x
+
 Yang, C., Fang, L., Yu, Q., Wei, H., 2022. A Learning Robust and Discriminative Shape Descriptor for Plant Species Identification. IEEE/ACM Trans. Comput. Biol. and Bioinf. 1–1. https://doi.org/10.1109/TCBB.2022.3148463
+
 Zhang, T.Y., Suen, C.Y., 1984. A fast parallel algorithm for thinning digital patterns. Communications of the ACM 27, 236–239.
 
 
