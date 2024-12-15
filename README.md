@@ -225,6 +225,7 @@ Elias, N., 2021. A Novel Method for Automated Identification and Prediction of I
 Favorskaya, M., Pakhirka, A., 2019. Animal species recognition in the wildlife based on muzzle and shape features using joint CNN. Procedia Computer Science 159, 933–942. https://doi.org/10.1016/j.procs.2019.09.260
 
 Finley, D., Dovciak, M., Dean, J., 2023. A data driven method for prioritizing invasive species to aid policy and management. Biol Invasions. https://doi.org/10.1007/s10530-023-03041-3
+
 Fu H., Chi Z., Chang J., Fu C.X., 2004. Extraction of leaf vein features based on artificial neural network - studies on the living plant identification Ⅰ.
 Goodfellow, I., Bengio, Y., Courville, A., Bengio, Y., 2016. Deep learning, volume 1. MIT press Cambridge.
 
@@ -263,7 +264,9 @@ Lodge, D.M., Williams, S., MacIsaac, H.J., Hayes, K.R., Leung, B., Reichard, S.,
 Martinez, B., Reaser, J.K., Dehgan, A., Zamft, B., Baisch, D., McCormick, C., Giordano, A.J., Aicher, R., Selbe, S., 2020. Technology innovation: advancing capacities for the early detection of and rapid response to invasive species. Biol Invasions 22, 75–100. https://doi.org/10.1007/s10530-019-02146-y
 
 Mohammadi, M., Al-Fuqaha, A., Sorour, S., Guizani, M., 2018. Deep learning for IoT big data and streaming analytics: A survey. IEEE Communications Surveys & Tutorials 20, 2923–2960.
+
 Nininahazwe, F., Théau, J., Marc Antoine, G., Varin, M., 2023. Mapping invasive alien plant species with very high spatial resolution and multi-date satellite imagery using object-based and machine learning techniques: A comparative study. GIScience & Remote Sensing 60, 2190203. https://doi.org/10.1080/15481603.2023.2190203
+
 Norouzzadeh, M.S., Nguyen, A., Kosmala, M., Swanson, A., Palmer, M.S., Packer, C., Clune, J., 2018. Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning. Proceedings of the National Academy of Sciences 115, E5716–E5725. https://doi.org/10.1073/pnas.1719367115
 
 Noviyanto, A., Arymurthy, A.M., 2013. Beef cattle identification based on muzzle pattern using a matching refinement technique in the SIFT method. Computers and electronics in agriculture 99, 77–84.
